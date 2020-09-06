@@ -5,7 +5,7 @@
 
 # Step 1:
 # Create dockerpath
-dockerpath=manishbisht/development
+dockerpath=24114187/devops_udacity
 
 # Step 2:  
 # Authenticate & tag
