@@ -42,5 +42,7 @@ upload_docker.sh contains the script to upload the docker image to the Docker Hu
 ./upload_docker.sh
 
 Kubernetes Clean Up
+
 kubectl delete deployment.apps/devops_udacity
+
 kubectl delete svc devops_udacity
