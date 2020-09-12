@@ -1,1 +1,5 @@
-
+(.devops) ec2-user:~/environment/DevOps_Microservices (master) $ ./run_kubernetes.sh
+deployment.apps "devops_udacity" created
+NAME                           		READY     STATUS              RESTARTS   AGE
+devops_udacity-64c6bcb4b4-s6hlq   	0/1     ContainerCreating   0          1s
+service "devops_udacity" exposed
